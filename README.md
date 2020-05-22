@@ -6,9 +6,7 @@ Grab source Ip, packet, AS number, and output as a JSON file.
 
 Download File:
 
-clone the file to local
-
-`https://github.com/klauswong123/routertracert.git`
+`git clone https://github.com/klauswong123/routertracert.git`
 
 
 **1. Prerequisite**
